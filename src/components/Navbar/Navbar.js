@@ -1,10 +1,9 @@
 import { useState, useEffect } from "react";
-import logo from "../../images/logo.gif";
 import "./Navbar.css";
 const Navbar = () => {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg bg-dark navbar-dark">
+      <nav className="navbar navbar-expand-lg bg-dark navbar-dark py-3">
         <div className="container">
           <a href="#" className="navbar-brand">
             תורת חפץ
