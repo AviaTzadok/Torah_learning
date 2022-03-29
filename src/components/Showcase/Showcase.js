@@ -17,14 +17,11 @@ const Showcase = () => {
               <span className="text-warning">כולל הלכה תורת חפץ</span>
               <span className="title lead my-4 ">
                 <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; הוקם בישוב אבני
-                חפץ לפני שבע שנים
+                הוקם בישוב אבני חפץ לפני שבע שנים
                 <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; האברכים לומדים
-                בכולל עם ליווי אישי ובאוירה נעימה
+                האברכים לומדים בכולל עם ליווי אישי ובאוירה נעימה
                 <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; הכולל זכה
-                להוציא מתוכו רבנים מוסמכים
+                הכולל זכה להוציא מתוכו רבנים מוסמכים
               </span>
             </h1>
             {/* <button className="btn btn-primary btn-lg">צור קשר</button> */}
