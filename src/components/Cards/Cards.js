@@ -1,15 +1,15 @@
 import "./Cards.css";
 const Cards = () => {
   return (
-    <section id="instructors" className="p-5 bg-primary">
+    <section id="instructors" className="p-5 img_background">
       <div className="container">
-        <h2 className="text-center text-white">רבני הכולל</h2>
-        <p className="lead text-center text-white mb-5">
+        <h2 className="text-center text-white card-text">רבני הכולל</h2>
+        <p className="lead text-center text-white mb-5 card-text">
           רבני הכולל הצדיקים ילוו אתכם בכל יום
         </p>
         <div className="row g-4 col">
-          <div className="col-md-6 col-lg-3">
-            <div className="card bg-light">
+          <div className="col-md-6 col-lg-3 ">
+            <div className="card bg-light ">
               <div className="card-body text-center img_david">
                 <img
                   src="images/Rabbis/david.jpg"
@@ -57,7 +57,7 @@ const Cards = () => {
                   className="rounded-circle mb-3 w-50"
                   alt=""
                 />
-                <h3 className="card-title mb-3">הרב</h3>
+                <h3 className="card-title mb-3"> הרב כהן</h3>
                 <p className="card-text">הרב הצדיק </p>
               </div>
             </div>

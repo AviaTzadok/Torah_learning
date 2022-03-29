@@ -1,0 +1,14 @@
+.title {
+  direction: rtl;
+}
+.img_background {
+  background-image: url("../../../public/images/tora.jpg");
+  background-color: #cccccc;
+  background-size: auto;
+}
+
+.title {
+  direction: rtl;
+  text-align: right;
+  font-family: serif;
+}

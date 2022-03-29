@@ -19,7 +19,11 @@ const Navbar = () => {
           <div className="collapse navbar-collapse" id="navMenu">
             <ul className="navbar-nav ms-auto">
               <li className="nav-item">
-                <a href="#" className="nav-link">
+                <a
+                  href="https://avnehefetz.co.il/"
+                  target="_blank"
+                  className="nav-link"
+                >
                   הישוב
                 </a>
               </li>
@@ -40,7 +44,7 @@ const Navbar = () => {
                 </a>
               </li>
               <li className="nav-item">
-                <a href="#" className="nav-link">
+                <a href="#Lorem_Ipsum" className="nav-link">
                   צור קשר
                 </a>
               </li>

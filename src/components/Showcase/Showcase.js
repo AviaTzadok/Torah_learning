@@ -3,21 +3,31 @@ import "./Showcase.css";
 const Showcase = () => {
   return (
     // <div>
-    <section className="bg-dark text-light p-5 text-center text-sm-start">
+    <section className=" text-light p-5 text-center text-sm-start img_background">
       <div className="container">
-        <div className="d-sm-flex align-items-center justify-content-between">
-          <img
+        <div className="d-sm-flex align-items-center justify-content-between title">
+          {/* <img
             className="img-fluid w-20 d-none d-sm-block"
             src="images/Sefer_Torah.jpg"
             alt=""
-          />
+          /> */}
           <div>
             <h1>
               {" "}
-              תורת השם <span className="text-warning">תמימה</span>
+              <span className="text-warning">כולל הלכה תורת חפץ</span>
+              <span className="title lead my-4 ">
+                <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; הוקם בישוב אבני
+                חפץ לפני שבע שנים
+                <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; האברכים לומדים
+                בכולל עם ליווי אישי ובאוירה נעימה
+                <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; הכולל זכה
+                להוציא מתוכו רבנים מוסמכים
+              </span>
             </h1>
-            <p className="lead my-4">כולל לימוד תורה</p>
-            <button className="btn btn-primary btn-lg">צור קשר</button>
+            {/* <button className="btn btn-primary btn-lg">צור קשר</button> */}
           </div>
         </div>
       </div>
