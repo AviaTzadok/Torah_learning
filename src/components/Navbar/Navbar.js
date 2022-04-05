@@ -33,11 +33,7 @@ const Navbar = () => {
                   לתרומות
                 </a>
               </li>
-              <li className="nav-item">
-                <a href="#" className="nav-link">
-                  תשלומים
-                </a>
-              </li>
+
               <li className="nav-item">
                 <a href="#" className="nav-link">
                   אודות
