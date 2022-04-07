@@ -6,7 +6,7 @@ const Navbar = () => {
       <nav className="navbar navbar-expand-lg bg-dark navbar-dark py-3">
         <div className="container">
           <a href="#" className="navbar-brand">
-            תורת חפץ
+            <img src="images/logo.png" className="col-md-6 col-lg-3" />
           </a>
           <button
             className="navbar-toggler"
@@ -40,8 +40,8 @@ const Navbar = () => {
                 </a>
               </li>
               <li className="nav-item">
-                <a href="#Lorem_Ipsum" className="nav-link">
-                  צור קשר
+                <a href="#contact_us" className="nav-link">
+                  צור&nbsp;קשר
                 </a>
               </li>
             </ul>

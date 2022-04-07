@@ -2,7 +2,7 @@ import "./Location.css";
 import Maps from "../Maps/Maps";
 const Location = () => {
   return (
-    <section className="p-5 background" id="Lorem_Ipsum">
+    <section className="p-5 background" id="contact_us">
       <div className="container">
         <div className="row g-4">
           <div className="col-md">
