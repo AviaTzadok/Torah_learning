@@ -2,9 +2,8 @@ import { useState, useEffect } from "react";
 import PlayingYouTubeVideo from "../PlayingYouTubeVideo/PlayingYouTubeVideo";
 import "./Showcase.css";
 const Showcase = () => {
-  const videoId = "lS2iSYbOJcE";
+  const videoId = "qhY5GXECQ08";
   return (
-    // <div>
     <section className=" text-light p-5 text-center text-sm-start img_background">
       <div className="container">
         <div className="d-sm-flex align-items-center justify-content-between title">
@@ -32,7 +31,6 @@ const Showcase = () => {
         </div>
       </div>
     </section>
-    // </div>
   );
 };
 
