@@ -19,6 +19,15 @@ const Navbar = () => {
           <div className="collapse navbar-collapse" id="navMenu">
             <ul className="navbar-nav ms-auto">
               <li className="nav-item">
+                <a
+                  href="https://rav-hefetz.co.il/"
+                  target="_blank"
+                  className="nav-link"
+                >
+                  רבנות&nbsp;אבני&nbsp;חפץ
+                </a>
+              </li>
+              <li className="nav-item">
                 <button
                   class="btn btn-link "
                   data-bs-toggle="modal"
