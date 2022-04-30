@@ -71,7 +71,7 @@ const Navbar = () => {
         </div>
       </nav>
       <div
-        class="modal fade"
+        class="modal fade slide_container"
         id="about"
         tabindex="-1"
         aria-labelledby="aboutLabel"
@@ -134,7 +134,7 @@ const Navbar = () => {
         </div>
       </div>
       <div
-        class="modal fade"
+        class="modal fade slide_container"
         id="bulletin"
         tabindex="-1"
         aria-labelledby="bulletinLabel"
@@ -146,7 +146,7 @@ const Navbar = () => {
               <h5 class="modal-title" id="bulletinLabel"></h5>
               <button
                 type="button"
-                class="btn-close"
+                class="btn-close "
                 data-bs-dismiss="modal"
                 aria-label="Close"
               ></button>
