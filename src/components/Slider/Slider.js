@@ -11,85 +11,121 @@ const Slider = () => {
       >
         <div class="carousel-inner">
           <div class="carousel-item active" data-bs-interval="3000">
-            <img src="images/synagogue/1.jpg" class="d-block w-100" alt="..." />
+            <img
+              src="images/synagogue/1.jpg"
+              class="d-block w-100 size_img"
+              alt="..."
+            />
           </div>
           <div class="carousel-item " data-bs-interval="3000">
-            <img src="images/synagogue/2.jpg" class="d-block w-100" alt="..." />
+            <img
+              src="images/synagogue/2.jpg"
+              class="d-block w-100 size_img"
+              alt="..."
+            />
           </div>
           <div class="carousel-item" data-bs-interval="3000">
-            <img src="images/synagogue/3.jpg" class="d-block w-100" alt="..." />
+            <img
+              src="images/synagogue/3.jpg"
+              class="d-block w-100 size_img"
+              alt="..."
+            />
           </div>
           <div class="carousel-item" data-bs-interval="3000">
-            <img src="images/synagogue/4.jpg" class="d-block w-100" alt="..." />
+            <img
+              src="images/synagogue/4.jpg"
+              class="d-block w-100 size_img"
+              alt="..."
+            />
           </div>
           <div class="carousel-item" data-bs-interval="3000">
-            <img src="images/synagogue/5.jpg" class="d-block w-100" alt="..." />
+            <img
+              src="images/synagogue/5.jpg"
+              class="d-block w-100 size_img"
+              alt="..."
+            />
           </div>
           <div class="carousel-item" data-bs-interval="3000">
-            <img src="images/synagogue/6.jpg" class="d-block w-100" alt="..." />
+            <img
+              src="images/synagogue/6.jpg"
+              class="d-block w-100 size_img"
+              alt="..."
+            />
           </div>
           <div class="carousel-item" data-bs-interval="3000">
-            <img src="images/synagogue/7.jpg" class="d-block w-100" alt="..." />
+            <img
+              src="images/synagogue/7.jpg"
+              class="d-block w-100 size_img"
+              alt="..."
+            />
           </div>
           <div class="carousel-item" data-bs-interval="3000">
-            <img src="images/synagogue/8.jpg" class="d-block w-100" alt="..." />
+            <img
+              src="images/synagogue/8.jpg"
+              class="d-block w-100 size_img"
+              alt="..."
+            />
           </div>
           <div class="carousel-item" data-bs-interval="3000">
-            <img src="images/synagogue/9.jpg" class="d-block w-100" alt="..." />
+            <img
+              src="images/synagogue/9.jpg"
+              class="d-block w-100 size_img"
+              alt="..."
+            />
           </div>
           <div class="carousel-item" data-bs-interval="3000">
             <img
               src="images/synagogue/10.jpg"
-              class="d-block w-100"
+              class="d-block w-100 size_img"
               alt="..."
             />
           </div>
           <div class="carousel-item" data-bs-interval="3000">
             <img
               src="images/synagogue/11.jpg"
-              class="d-block w-100"
+              class="d-block w-100 size_img"
               alt="..."
             />
           </div>
           <div class="carousel-item" data-bs-interval="3000">
             <img
               src="images/synagogue/12.jpg"
-              class="d-block w-100"
+              class="d-block w-100 size_img"
               alt="..."
             />
           </div>
           <div class="carousel-item" data-bs-interval="3000">
             <img
               src="images/synagogue/13.jpg"
-              class="d-block w-100"
+              class="d-block w-100 size_img"
               alt="..."
             />
           </div>
           <div class="carousel-item" data-bs-interval="3000">
             <img
               src="images/synagogue/14.jpg"
-              class="d-block w-100"
+              class="d-block w-100 size_img"
               alt="..."
             />
           </div>
           <div class="carousel-item" data-bs-interval="3000">
             <img
               src="images/synagogue/15.jpg"
-              class="d-block w-100"
+              class="d-block w-100 size_img"
               alt="..."
             />
           </div>
           <div class="carousel-item" data-bs-interval="3000">
             <img
               src="images/synagogue/16.jpg"
-              class="d-block w-100"
+              class="d-block w-100 size_img"
               alt="..."
             />
           </div>
           <div class="carousel-item" data-bs-interval="3000">
             <img
               src="images/synagogue/17.jpg"
-              class="d-block w-100"
+              class="d-block w-100 size_img"
               alt="..."
             />
           </div>

@@ -3,3 +3,7 @@
   width: 100%;
   overflow: hidden;
 }
+.size_img {
+  max-height: 92vh;
+  min-height: 45vh;
+}

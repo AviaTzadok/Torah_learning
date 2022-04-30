@@ -4,7 +4,7 @@ import "./Showcase.css";
 const Showcase = () => {
   const videoId = "qhY5GXECQ08";
   return (
-    <section className=" text-light p-5 text-center text-sm-start img_background">
+    <section className=" text-light p-5 text-center text-sm-start img_background ">
       <div className="container">
         <div className="d-sm-flex align-items-center justify-content-between title">
           {/* <img
